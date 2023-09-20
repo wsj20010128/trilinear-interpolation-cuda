@@ -1,0 +1,19 @@
+{
+    "configurations": [
+        {
+            "name": "Linux",
+            "includePath": [
+                "${workspaceFolder}/**",
+                "/home/shijie/miniconda3/envs/cppcuda/include/python3.8",
+                "/home/shijie/miniconda3/envs/cppcuda/lib/python3.8/site-packages/torch/include",
+                "/home/shijie/miniconda3/envs/cppcuda/lib/python3.8/site-packages/torch/include/torch/csrc/api/include"
+            ],
+            "defines": [],
+            "compilerPath": "/usr/bin/gcc",
+            "cStandard": "c17",
+            "cppStandard": "gnu++17",
+            "intelliSenseMode": "linux-gcc-x64"
+        }
+    ],
+    "version": 4
+}
